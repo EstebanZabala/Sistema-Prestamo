@@ -1,0 +1,27 @@
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\Capa Negocio.exe.config
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\Capa Negocio.exe
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\Capa Entidad.exe
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\CapaDato.exe
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\Capa Entidad.pdb
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\Capa Entidad.exe.config
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\CapaDato.pdb
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\bin\Debug\CapaDato.exe.config
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.csprojAssemblyReference.cache
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.csproj.CopyComplete
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.exe
+C:\Users\issei\source\repos\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\Capa Negocio.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\Capa Negocio.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\Capa Entidad.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\CapaDato.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\Capa Entidad.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\Capa Entidad.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\CapaDato.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\bin\Debug\CapaDato.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.csprojAssemblyReference.cache
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.csproj.CopyComplete
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\Capa Negocio\obj\Debug\Capa Negocio.pdb

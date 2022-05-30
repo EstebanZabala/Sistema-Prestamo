@@ -1,0 +1,21 @@
+C:\Users\issei\source\repos\SistemaP\CapaDato\bin\Debug\CapaDato.exe.config
+C:\Users\issei\source\repos\SistemaP\CapaDato\bin\Debug\CapaDato.exe
+C:\Users\issei\source\repos\SistemaP\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\issei\source\repos\SistemaP\CapaDato\bin\Debug\Capa Entidad.exe
+C:\Users\issei\source\repos\SistemaP\CapaDato\bin\Debug\Capa Entidad.pdb
+C:\Users\issei\source\repos\SistemaP\CapaDato\bin\Debug\Capa Entidad.exe.config
+C:\Users\issei\source\repos\SistemaP\CapaDato\obj\Debug\Capa Datos.csprojAssemblyReference.cache
+C:\Users\issei\source\repos\SistemaP\CapaDato\obj\Debug\Capa Datos.csproj.CopyComplete
+C:\Users\issei\source\repos\SistemaP\CapaDato\obj\Debug\CapaDato.exe
+C:\Users\issei\source\repos\SistemaP\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\bin\Debug\CapaDato.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\bin\Debug\CapaDato.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\bin\Debug\Capa Entidad.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\bin\Debug\Capa Entidad.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\bin\Debug\Capa Entidad.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\obj\Debug\Capa Datos.csprojAssemblyReference.cache
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\obj\Debug\Capa Datos.csproj.CopyComplete
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\obj\Debug\CapaDato.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\CapaDato\obj\Debug\CapaDato.pdb

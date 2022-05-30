@@ -1,0 +1,43 @@
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\SistemaP.exe.config
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\SistemaP.exe
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\SistemaP.pdb
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\Capa Entidad.exe
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\Capa Negocio.exe
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\CapaDato.exe
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\Capa Entidad.pdb
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\Capa Entidad.exe.config
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\Capa Negocio.pdb
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\Capa Negocio.exe.config
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\CapaDato.pdb
+C:\Users\issei\source\repos\SistemaP\SistemaP\bin\Debug\CapaDato.exe.config
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\Capa Presentacion.csprojAssemblyReference.cache
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\SistemaP.Form1.resources
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\SistemaP.Form2.resources
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\SistemaP.Form3.resources
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\SistemaP.Properties.Resources.resources
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\Capa Presentacion.csproj.CopyComplete
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\SistemaP.exe
+C:\Users\issei\source\repos\SistemaP\SistemaP\obj\Debug\SistemaP.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\SistemaP.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\SistemaP.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\SistemaP.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\Capa Entidad.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\Capa Negocio.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\CapaDato.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\Capa Entidad.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\Capa Entidad.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\Capa Negocio.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\Capa Negocio.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\CapaDato.pdb
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\bin\Debug\CapaDato.exe.config
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\Capa Presentacion.csprojAssemblyReference.cache
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\SistemaP.Form1.resources
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\SistemaP.Form2.resources
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\SistemaP.Form3.resources
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\SistemaP.Properties.Resources.resources
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\Capa Presentacion.csproj.CopyComplete
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\SistemaP.exe
+C:\Users\issei\OneDrive\Escritorio\Tareas\SistemaP\SistemaP\obj\Debug\SistemaP.pdb
